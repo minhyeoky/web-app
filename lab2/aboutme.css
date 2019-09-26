@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica Verdana sans-serif;
+    color: #939396;
+    background-color: #1D2475;
+}
+
+h1 {
+    font-size: 40pt;
+    color: #F7931E;
+}
+
+h2 {
+    color: #F7931E;
+}
+
+b {
+    color: #FFF86B;
+}
+
+DT {
+    font-weight: bold;
+    color: #FFF86B;
+}
+
+DD {
+    font-size: 70%;
+}
+
+a {
+    color: #FF4F4F;
+}
+
+blockquote {
+    color: #D1DFEB;
+}
+
+.first-letter {
+    font-size: 150%;
+}
+
+
+
