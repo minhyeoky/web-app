@@ -1,5 +1,5 @@
-* {
-	color: whitesmoke;
+body *:hover {
+	background-color: #A6CE39;
 }
 
 body {
