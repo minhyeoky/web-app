@@ -1,5 +1,6 @@
-* {
-	color: whitesmoke;
+
+body *:hover {
+	background-color: #A6CE39;
 }
 
 body {
@@ -16,13 +17,13 @@ header {
 	color: white;
 }
 
-.sub-title {
+header.sub-title {
 	font-size: 14pt;
 	color: #CCCCCC;
 }
 
 article.main {
-	overflow: hidden;
+	overflow: auto;
 }
 aside {
 	width: 150px;

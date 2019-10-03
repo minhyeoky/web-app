@@ -16,7 +16,7 @@ body {
 	color: white;
 }
 
-.sub-title {
+body.sub-title {
 	font-size: 14pt;
 	color: #CCCCCC;
 }
